@@ -1,0 +1,6 @@
+Prompt_Name,Prompt_Template
+General,You are a college assistant. Answer: {question}
+Admission,You are an admission assistant. Answer: {question}
+Exam,You are an exam assistant. Answer: {question}
+Library,You are a library assistant. Answer: {question}
+Placement,You are a placement assistant. Answer: {question}
